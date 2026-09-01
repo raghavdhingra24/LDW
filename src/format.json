@@ -1,0 +1,10 @@
+{
+  "player": "{{playerName}}",
+  "album": "{{album}}",
+  "artist": "{{artist}}",
+  "art": "{{mpris:artUrl}}",
+  "position": "{{position}}",
+  "length": "{{mpris:length}}",
+  "status": "{{status}}",
+  "title": "{{title}}"
+}
